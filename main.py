@@ -34,7 +34,7 @@ def clear_func():
 
 
     return
-button_1 = Button(root, text="1", padx=35, pady=20, command= lambda: myClick(1))
+button_1 = Button(root, text="wun", padx=35, pady=20, command= lambda: myClick(1))
 button_2 = Button(root, text="2", padx=35, pady=20, command= lambda: myClick(2))
 button_3 = Button(root, text="3", padx=35, pady=20, command= lambda: myClick(3))
 
